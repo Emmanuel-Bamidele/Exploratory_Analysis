@@ -1,0 +1,241 @@
+,country,year,sex,age,suicides_number,population,suicides_per_100k,country_year,HDI_for_year,GDP_for_Year,GDP_Per_Capital,generation
+0,South Africa,1996,male,75+ years,6,167328,3.59,South Africa1996,,"147,607,982,695",3908,G.I. Generation
+1,South Africa,1996,male,25-34 years,32,3302060,0.97,South Africa1996,,"147,607,982,695",3908,Generation X
+2,South Africa,1996,male,35-54 years,36,4031071,0.89,South Africa1996,,"147,607,982,695",3908,Boomers
+3,South Africa,1996,male,55-74 years,10,1497309,0.67,South Africa1996,,"147,607,982,695",3908,Silent
+4,South Africa,1996,male,15-24 years,27,4363896,0.62,South Africa1996,,"147,607,982,695",3908,Generation X
+5,South Africa,1996,female,55-74 years,8,1784403,0.45,South Africa1996,,"147,607,982,695",3908,Silent
+6,South Africa,1996,female,75+ years,1,319242,0.31,South Africa1996,,"147,607,982,695",3908,G.I. Generation
+7,South Africa,1996,female,15-24 years,12,4384015,0.27,South Africa1996,,"147,607,982,695",3908,Generation X
+8,South Africa,1996,female,35-54 years,8,4301900,0.19,South Africa1996,,"147,607,982,695",3908,Boomers
+9,South Africa,1996,male,5-14 years,2,5115933,0.04,South Africa1996,,"147,607,982,695",3908,Millenials
+10,South Africa,1996,female,25-34 years,1,3428200,0.03,South Africa1996,,"147,607,982,695",3908,Generation X
+11,South Africa,1996,female,5-14 years,0,5078295,0.0,South Africa1996,,"147,607,982,695",3908,Millenials
+12,South Africa,1997,female,75+ years,4,332140,1.2,South Africa1997,,"152,586,154,514",3960,G.I. Generation
+13,South Africa,1997,male,55-74 years,16,1532172,1.04,South Africa1997,,"152,586,154,514",3960,Silent
+14,South Africa,1997,male,25-34 years,20,3388675,0.59,South Africa1997,,"152,586,154,514",3960,Generation X
+15,South Africa,1997,male,75+ years,1,174961,0.57,South Africa1997,,"152,586,154,514",3960,G.I. Generation
+16,South Africa,1997,male,15-24 years,24,4465965,0.54,South Africa1997,,"152,586,154,514",3960,Generation X
+17,South Africa,1997,male,35-54 years,21,4141015,0.51,South Africa1997,,"152,586,154,514",3960,Boomers
+18,South Africa,1997,female,35-54 years,7,4431607,0.16,South Africa1997,,"152,586,154,514",3960,Boomers
+19,South Africa,1997,female,25-34 years,5,3508770,0.14,South Africa1997,,"152,586,154,514",3960,Generation X
+20,South Africa,1997,female,55-74 years,2,1839119,0.11,South Africa1997,,"152,586,154,514",3960,Silent
+21,South Africa,1997,female,15-24 years,4,4474858,0.09,South Africa1997,,"152,586,154,514",3960,Generation X
+22,South Africa,1997,female,5-14 years,0,5099973,0.0,South Africa1997,,"152,586,154,514",3960,Millenials
+23,South Africa,1997,male,5-14 years,0,5138902,0.0,South Africa1997,,"152,586,154,514",3960,Millenials
+24,South Africa,1998,male,75+ years,4,180629,2.21,South Africa1998,,"137,774,361,015",3512,G.I. Generation
+25,South Africa,1998,male,25-34 years,41,3477929,1.18,South Africa1998,,"137,774,361,015",3512,Generation X
+26,South Africa,1998,male,35-54 years,42,4251380,0.99,South Africa1998,,"137,774,361,015",3512,Boomers
+27,South Africa,1998,male,15-24 years,35,4561233,0.77,South Africa1998,,"137,774,361,015",3512,Generation X
+28,South Africa,1998,male,55-74 years,12,1567615,0.77,South Africa1998,,"137,774,361,015",3512,Silent
+29,South Africa,1998,female,75+ years,2,343513,0.58,South Africa1998,,"137,774,361,015",3512,G.I. Generation
+30,South Africa,1998,female,15-24 years,17,4559940,0.37,South Africa1998,,"137,774,361,015",3512,Generation X
+31,South Africa,1998,female,55-74 years,7,1894428,0.37,South Africa1998,,"137,774,361,015",3512,Silent
+32,South Africa,1998,female,35-54 years,10,4559720,0.22,South Africa1998,,"137,774,361,015",3512,Boomers
+33,South Africa,1998,female,25-34 years,5,3587008,0.14,South Africa1998,,"137,774,361,015",3512,Generation X
+34,South Africa,1998,male,5-14 years,3,5145480,0.06,South Africa1998,,"137,774,361,015",3512,Millenials
+35,South Africa,1998,female,5-14 years,2,5103593,0.04,South Africa1998,,"137,774,361,015",3512,Millenials
+36,South Africa,1999,male,75+ years,5,184389,2.71,South Africa1999,,"136,631,966,609",3424,G.I. Generation
+37,South Africa,1999,male,25-34 years,64,3570497,1.79,South Africa1999,,"136,631,966,609",3424,Generation X
+38,South Africa,1999,male,35-54 years,71,4365175,1.63,South Africa1999,,"136,631,966,609",3424,Boomers
+39,South Africa,1999,male,15-24 years,58,4649933,1.25,South Africa1999,,"136,631,966,609",3424,Generation X
+40,South Africa,1999,male,55-74 years,17,1603221,1.06,South Africa1999,,"136,631,966,609",3424,Silent
+41,South Africa,1999,female,75+ years,3,354019,0.85,South Africa1999,,"136,631,966,609",3424,G.I. Generation
+42,South Africa,1999,female,25-34 years,21,3664774,0.57,South Africa1999,,"136,631,966,609",3424,Generation X
+43,South Africa,1999,female,35-54 years,19,4689648,0.41,South Africa1999,,"136,631,966,609",3424,Boomers
+44,South Africa,1999,female,55-74 years,5,1949775,0.26,South Africa1999,,"136,631,966,609",3424,Silent
+45,South Africa,1999,female,15-24 years,10,4640195,0.22,South Africa1999,,"136,631,966,609",3424,Generation X
+46,South Africa,1999,male,5-14 years,4,5140790,0.08,South Africa1999,,"136,631,966,609",3424,Millenials
+47,South Africa,1999,female,5-14 years,2,5095144,0.04,South Africa1999,,"136,631,966,609",3424,Millenials
+48,South Africa,2000,male,75+ years,4,186160,2.15,South Africa2000,0.632,"136,361,854,808",3361,G.I. Generation
+49,South Africa,2000,male,35-54 years,79,4484198,1.76,South Africa2000,0.632,"136,361,854,808",3361,Boomers
+50,South Africa,2000,male,25-34 years,56,3666534,1.53,South Africa2000,0.632,"136,361,854,808",3361,Generation X
+51,South Africa,2000,male,55-74 years,24,1639109,1.46,South Africa2000,0.632,"136,361,854,808",3361,Silent
+52,South Africa,2000,male,15-24 years,41,4731845,0.87,South Africa2000,0.632,"136,361,854,808",3361,Generation X
+53,South Africa,2000,female,25-34 years,16,3743453,0.43,South Africa2000,0.632,"136,361,854,808",3361,Generation X
+54,South Africa,2000,female,15-24 years,18,4715537,0.38,South Africa2000,0.632,"136,361,854,808",3361,Generation X
+55,South Africa,2000,female,35-54 years,18,4823228,0.37,South Africa2000,0.632,"136,361,854,808",3361,Boomers
+56,South Africa,2000,female,75+ years,1,364031,0.27,South Africa2000,0.632,"136,361,854,808",3361,G.I. Generation
+57,South Africa,2000,female,55-74 years,4,2005213,0.2,South Africa2000,0.632,"136,361,854,808",3361,Silent
+58,South Africa,2000,male,5-14 years,5,5129271,0.1,South Africa2000,0.632,"136,361,854,808",3361,Millenials
+59,South Africa,2000,female,5-14 years,1,5079980,0.02,South Africa2000,0.632,"136,361,854,808",3361,Millenials
+60,South Africa,2001,male,75+ years,6,196844,3.05,South Africa2001,,"121,600,818,310",2953,Silent
+61,South Africa,2001,male,25-34 years,102,3744470,2.72,South Africa2001,,"121,600,818,310",2953,Generation X
+62,South Africa,2001,male,35-54 years,99,4575178,2.16,South Africa2001,,"121,600,818,310",2953,Boomers
+63,South Africa,2001,male,15-24 years,86,4814340,1.79,South Africa2001,,"121,600,818,310",2953,Millenials
+64,South Africa,2001,male,55-74 years,15,1671023,0.9,South Africa2001,,"121,600,818,310",2953,Silent
+65,South Africa,2001,female,15-24 years,27,4783006,0.56,South Africa2001,,"121,600,818,310",2953,Millenials
+66,South Africa,2001,female,35-54 years,21,4940098,0.43,South Africa2001,,"121,600,818,310",2953,Boomers
+67,South Africa,2001,female,25-34 years,15,3806836,0.39,South Africa2001,,"121,600,818,310",2953,Generation X
+68,South Africa,2001,female,55-74 years,6,2053745,0.29,South Africa2001,,"121,600,818,310",2953,Silent
+69,South Africa,2001,male,5-14 years,4,5137175,0.08,South Africa2001,,"121,600,818,310",2953,Millenials
+70,South Africa,2001,female,5-14 years,3,5081802,0.06,South Africa2001,,"121,600,818,310",2953,Millenials
+71,South Africa,2001,female,75+ years,0,381082,0.0,South Africa2001,,"121,600,818,310",2953,Silent
+72,South Africa,2002,male,35-54 years,67,4667760,1.44,South Africa2002,,"115,748,110,113",2769,Boomers
+73,South Africa,2002,male,25-34 years,46,3829330,1.2,South Africa2002,,"115,748,110,113",2769,Generation X
+74,South Africa,2002,male,15-24 years,55,4895133,1.12,South Africa2002,,"115,748,110,113",2769,Millenials
+75,South Africa,2002,male,75+ years,2,205605,0.97,South Africa2002,,"115,748,110,113",2769,Silent
+76,South Africa,2002,male,55-74 years,14,1702348,0.82,South Africa2002,,"115,748,110,113",2769,Silent
+77,South Africa,2002,female,15-24 years,26,4851340,0.54,South Africa2002,,"115,748,110,113",2769,Millenials
+78,South Africa,2002,female,75+ years,1,396984,0.25,South Africa2002,,"115,748,110,113",2769,Silent
+79,South Africa,2002,female,55-74 years,4,2102686,0.19,South Africa2002,,"115,748,110,113",2769,Silent
+80,South Africa,2002,female,35-54 years,9,5057440,0.18,South Africa2002,,"115,748,110,113",2769,Boomers
+81,South Africa,2002,female,25-34 years,6,3871715,0.15,South Africa2002,,"115,748,110,113",2769,Generation X
+82,South Africa,2002,male,5-14 years,5,5141866,0.1,South Africa2002,,"115,748,110,113",2769,Millenials
+83,South Africa,2002,female,5-14 years,1,5081661,0.02,South Africa2002,,"115,748,110,113",2769,Millenials
+84,South Africa,2003,male,75+ years,4,212092,1.89,South Africa2003,,"175,256,916,996",4132,Silent
+85,South Africa,2003,male,25-34 years,61,3920433,1.56,South Africa2003,,"175,256,916,996",4132,Generation X
+86,South Africa,2003,male,35-54 years,58,4760427,1.22,South Africa2003,,"175,256,916,996",4132,Boomers
+87,South Africa,2003,female,75+ years,5,411590,1.21,South Africa2003,,"175,256,916,996",4132,Silent
+88,South Africa,2003,male,15-24 years,50,4970281,1.01,South Africa2003,,"175,256,916,996",4132,Millenials
+89,South Africa,2003,male,55-74 years,16,1735290,0.92,South Africa2003,,"175,256,916,996",4132,Silent
+90,South Africa,2003,female,15-24 years,21,4917197,0.43,South Africa2003,,"175,256,916,996",4132,Millenials
+91,South Africa,2003,female,35-54 years,17,5172481,0.33,South Africa2003,,"175,256,916,996",4132,Boomers
+92,South Africa,2003,female,25-34 years,12,3937685,0.3,South Africa2003,,"175,256,916,996",4132,Generation X
+93,South Africa,2003,female,55-74 years,5,2154419,0.23,South Africa2003,,"175,256,916,996",4132,Silent
+94,South Africa,2003,male,5-14 years,4,5143653,0.08,South Africa2003,,"175,256,916,996",4132,Millenials
+95,South Africa,2003,female,5-14 years,3,5079761,0.06,South Africa2003,,"175,256,916,996",4132,Millenials
+96,South Africa,2004,male,75+ years,6,216088,2.78,South Africa2004,,"228,937,347,866",5323,Silent
+97,South Africa,2004,male,25-34 years,90,4016137,2.24,South Africa2004,,"228,937,347,866",5323,Generation X
+98,South Africa,2004,male,35-54 years,88,4851225,1.81,South Africa2004,,"228,937,347,866",5323,Boomers
+99,South Africa,2004,male,55-74 years,31,1772427,1.75,South Africa2004,,"228,937,347,866",5323,Silent
+100,South Africa,2004,male,15-24 years,71,5034637,1.41,South Africa2004,,"228,937,347,866",5323,Millenials
+101,South Africa,2004,female,15-24 years,29,4974786,0.58,South Africa2004,,"228,937,347,866",5323,Millenials
+102,South Africa,2004,female,35-54 years,27,5280926,0.51,South Africa2004,,"228,937,347,866",5323,Boomers
+103,South Africa,2004,female,25-34 years,20,4004871,0.5,South Africa2004,,"228,937,347,866",5323,Generation X
+104,South Africa,2004,female,75+ years,2,424755,0.47,South Africa2004,,"228,937,347,866",5323,Silent
+105,South Africa,2004,female,55-74 years,8,2212147,0.36,South Africa2004,,"228,937,347,866",5323,Silent
+106,South Africa,2004,male,5-14 years,8,5142164,0.16,South Africa2004,,"228,937,347,866",5323,Millenials
+107,South Africa,2004,female,5-14 years,3,5075711,0.06,South Africa2004,,"228,937,347,866",5323,Millenials
+108,South Africa,2005,male,75+ years,7,217456,3.22,South Africa2005,0.613,"257,671,413,751",5914,Silent
+109,South Africa,2005,male,25-34 years,123,4115079,2.99,South Africa2005,0.613,"257,671,413,751",5914,Generation X
+110,South Africa,2005,male,35-54 years,113,4940028,2.29,South Africa2005,0.613,"257,671,413,751",5914,Boomers
+111,South Africa,2005,male,15-24 years,84,5085130,1.65,South Africa2005,0.613,"257,671,413,751",5914,Millenials
+112,South Africa,2005,male,55-74 years,26,1814968,1.43,South Africa2005,0.613,"257,671,413,751",5914,Silent
+113,South Africa,2005,female,75+ years,6,436545,1.37,South Africa2005,0.613,"257,671,413,751",5914,Silent
+114,South Africa,2005,female,15-24 years,37,5019979,0.74,South Africa2005,0.613,"257,671,413,751",5914,Millenials
+115,South Africa,2005,female,55-74 years,13,2277534,0.57,South Africa2005,0.613,"257,671,413,751",5914,Silent
+116,South Africa,2005,female,35-54 years,24,5380632,0.45,South Africa2005,0.613,"257,671,413,751",5914,Boomers
+117,South Africa,2005,female,25-34 years,17,4074236,0.42,South Africa2005,0.613,"257,671,413,751",5914,Generation X
+118,South Africa,2005,female,5-14 years,4,5068338,0.08,South Africa2005,0.613,"257,671,413,751",5914,Millenials
+119,South Africa,2005,male,5-14 years,4,5136182,0.08,South Africa2005,0.613,"257,671,413,751",5914,Millenials
+120,South Africa,2006,male,75+ years,11,229481,4.79,South Africa2006,,"271,811,088,781",6166,Silent
+121,South Africa,2006,male,25-34 years,147,4197897,3.5,South Africa2006,,"271,811,088,781",6166,Generation X
+122,South Africa,2006,male,35-54 years,113,5016840,2.25,South Africa2006,,"271,811,088,781",6166,Boomers
+123,South Africa,2006,male,55-74 years,39,1858272,2.1,South Africa2006,,"271,811,088,781",6166,Silent
+124,South Africa,2006,male,15-24 years,98,5120804,1.91,South Africa2006,,"271,811,088,781",6166,Millenials
+125,South Africa,2006,female,75+ years,5,455513,1.1,South Africa2006,,"271,811,088,781",6166,Silent
+126,South Africa,2006,female,25-34 years,24,4128825,0.58,South Africa2006,,"271,811,088,781",6166,Generation X
+127,South Africa,2006,female,15-24 years,29,5047676,0.57,South Africa2006,,"271,811,088,781",6166,Millenials
+128,South Africa,2006,female,35-54 years,23,5474446,0.42,South Africa2006,,"271,811,088,781",6166,Boomers
+129,South Africa,2006,female,55-74 years,9,2340680,0.38,South Africa2006,,"271,811,088,781",6166,Silent
+130,South Africa,2006,male,5-14 years,9,5138413,0.18,South Africa2006,,"271,811,088,781",6166,Millenials
+131,South Africa,2006,female,5-14 years,7,5070210,0.14,South Africa2006,,"271,811,088,781",6166,Millenials
+132,South Africa,2007,male,25-34 years,86,4286162,2.01,South Africa2007,,"299,033,511,000",6708,Generation X
+133,South Africa,2007,male,35-54 years,101,5090390,1.98,South Africa2007,,"299,033,511,000",6708,Boomers
+134,South Africa,2007,male,15-24 years,92,5143929,1.79,South Africa2007,,"299,033,511,000",6708,Millenials
+135,South Africa,2007,female,75+ years,7,472676,1.48,South Africa2007,,"299,033,511,000",6708,Silent
+136,South Africa,2007,male,55-74 years,25,1905779,1.31,South Africa2007,,"299,033,511,000",6708,Silent
+137,South Africa,2007,male,75+ years,3,239229,1.25,South Africa2007,,"299,033,511,000",6708,Silent
+138,South Africa,2007,female,15-24 years,38,5065647,0.75,South Africa2007,,"299,033,511,000",6708,Millenials
+139,South Africa,2007,female,35-54 years,28,5558737,0.5,South Africa2007,,"299,033,511,000",6708,Boomers
+140,South Africa,2007,female,55-74 years,11,2411075,0.46,South Africa2007,,"299,033,511,000",6708,Silent
+141,South Africa,2007,female,25-34 years,18,4186842,0.43,South Africa2007,,"299,033,511,000",6708,Generation X
+142,South Africa,2007,male,5-14 years,6,5142720,0.12,South Africa2007,,"299,033,511,000",6708,Generation Z
+143,South Africa,2007,female,5-14 years,2,5074249,0.04,South Africa2007,,"299,033,511,000",6708,Generation Z
+144,South Africa,2008,male,75+ years,9,272288,3.31,South Africa2008,,"287,099,991,517",6573,Silent
+145,South Africa,2008,male,25-34 years,103,3943063,2.61,South Africa2008,,"287,099,991,517",6573,Generation X
+146,South Africa,2008,male,35-54 years,112,4596136,2.44,South Africa2008,,"287,099,991,517",6573,Boomers
+147,South Africa,2008,male,15-24 years,92,4976793,1.85,South Africa2008,,"287,099,991,517",6573,Millenials
+148,South Africa,2008,male,55-74 years,27,1965744,1.37,South Africa2008,,"287,099,991,517",6573,Silent
+149,South Africa,2008,female,15-24 years,35,5015977,0.7,South Africa2008,,"287,099,991,517",6573,Millenials
+150,South Africa,2008,female,35-54 years,26,5219348,0.5,South Africa2008,,"287,099,991,517",6573,Boomers
+151,South Africa,2008,female,25-34 years,20,4284107,0.47,South Africa2008,,"287,099,991,517",6573,Generation X
+152,South Africa,2008,female,75+ years,2,464061,0.43,South Africa2008,,"287,099,991,517",6573,Silent
+153,South Africa,2008,female,55-74 years,8,2481274,0.32,South Africa2008,,"287,099,991,517",6573,Silent
+154,South Africa,2008,female,5-14 years,4,5197475,0.08,South Africa2008,,"287,099,991,517",6573,Generation Z
+155,South Africa,2008,male,5-14 years,3,5264320,0.06,South Africa2008,,"287,099,991,517",6573,Generation Z
+156,South Africa,2009,male,25-34 years,80,4482123,1.78,South Africa2009,,"297,216,730,669",6517,Generation X
+157,South Africa,2009,male,55-74 years,34,2011938,1.69,South Africa2009,,"297,216,730,669",6517,Silent
+158,South Africa,2009,male,75+ years,4,249921,1.6,South Africa2009,,"297,216,730,669",6517,Silent
+159,South Africa,2009,male,35-54 years,79,5245122,1.51,South Africa2009,,"297,216,730,669",6517,Boomers
+160,South Africa,2009,male,15-24 years,77,5166324,1.49,South Africa2009,,"297,216,730,669",6517,Millenials
+161,South Africa,2009,female,15-24 years,36,5087135,0.71,South Africa2009,,"297,216,730,669",6517,Millenials
+162,South Africa,2009,female,75+ years,3,502919,0.6,South Africa2009,,"297,216,730,669",6517,Silent
+163,South Africa,2009,female,35-54 years,25,5714588,0.44,South Africa2009,,"297,216,730,669",6517,Boomers
+164,South Africa,2009,female,25-34 years,18,4321786,0.42,South Africa2009,,"297,216,730,669",6517,Generation X
+165,South Africa,2009,female,55-74 years,8,2569004,0.31,South Africa2009,,"297,216,730,669",6517,Silent
+166,South Africa,2009,male,5-14 years,6,5162677,0.12,South Africa2009,,"297,216,730,669",6517,Generation Z
+167,South Africa,2009,female,5-14 years,2,5093511,0.04,South Africa2009,,"297,216,730,669",6517,Generation Z
+168,South Africa,2010,male,75+ years,9,250341,3.6,South Africa2010,0.643,"375,298,134,440",8128,Silent
+169,South Africa,2010,male,25-34 years,106,4588964,2.31,South Africa2010,0.643,"375,298,134,440",8128,Generation X
+170,South Africa,2010,male,55-74 years,35,2069020,1.69,South Africa2010,0.643,"375,298,134,440",8128,Silent
+171,South Africa,2010,male,35-54 years,85,5336625,1.59,South Africa2010,0.643,"375,298,134,440",8128,Generation X
+172,South Africa,2010,male,15-24 years,56,5175095,1.08,South Africa2010,0.643,"375,298,134,440",8128,Millenials
+173,South Africa,2010,female,75+ years,4,516647,0.77,South Africa2010,0.643,"375,298,134,440",8128,Silent
+174,South Africa,2010,female,15-24 years,32,5099408,0.63,South Africa2010,0.643,"375,298,134,440",8128,Millenials
+175,South Africa,2010,female,35-54 years,28,5795087,0.48,South Africa2010,0.643,"375,298,134,440",8128,Generation X
+176,South Africa,2010,female,25-34 years,20,4402203,0.45,South Africa2010,0.643,"375,298,134,440",8128,Generation X
+177,South Africa,2010,female,55-74 years,8,2654031,0.3,South Africa2010,0.643,"375,298,134,440",8128,Silent
+178,South Africa,2010,male,5-14 years,8,5179048,0.15,South Africa2010,0.643,"375,298,134,440",8128,Generation Z
+179,South Africa,2010,female,5-14 years,2,5109731,0.04,South Africa2010,0.643,"375,298,134,440",8128,Generation Z
+180,South Africa,2011,male,25-34 years,88,4671416,1.88,South Africa2011,0.6509999999999999,"416,878,162,441",8906,Millenials
+181,South Africa,2011,male,35-54 years,87,5470606,1.59,South Africa2011,0.6509999999999999,"416,878,162,441",8906,Generation X
+182,South Africa,2011,male,15-24 years,77,5175523,1.49,South Africa2011,0.6509999999999999,"416,878,162,441",8906,Millenials
+183,South Africa,2011,male,55-74 years,28,2131366,1.31,South Africa2011,0.6509999999999999,"416,878,162,441",8906,Boomers
+184,South Africa,2011,male,75+ years,2,262348,0.76,South Africa2011,0.6509999999999999,"416,878,162,441",8906,Silent
+185,South Africa,2011,female,75+ years,4,538536,0.74,South Africa2011,0.6509999999999999,"416,878,162,441",8906,Silent
+186,South Africa,2011,female,15-24 years,34,5097135,0.67,South Africa2011,0.6509999999999999,"416,878,162,441",8906,Millenials
+187,South Africa,2011,female,25-34 years,15,4483203,0.33,South Africa2011,0.6509999999999999,"416,878,162,441",8906,Millenials
+188,South Africa,2011,female,55-74 years,7,2742168,0.26,South Africa2011,0.6509999999999999,"416,878,162,441",8906,Boomers
+189,South Africa,2011,female,35-54 years,13,5909995,0.22,South Africa2011,0.6509999999999999,"416,878,162,441",8906,Generation X
+190,South Africa,2011,female,5-14 years,2,5126281,0.04,South Africa2011,0.6509999999999999,"416,878,162,441",8906,Generation Z
+191,South Africa,2011,male,5-14 years,1,5198162,0.02,South Africa2011,0.6509999999999999,"416,878,162,441",8906,Generation Z
+192,South Africa,2012,male,75+ years,8,271907,2.94,South Africa2012,0.659,"396,332,702,639",8347,Silent
+193,South Africa,2012,male,25-34 years,128,4757896,2.69,South Africa2012,0.659,"396,332,702,639",8347,Millenials
+194,South Africa,2012,male,15-24 years,107,5178479,2.07,South Africa2012,0.659,"396,332,702,639",8347,Millenials
+195,South Africa,2012,male,55-74 years,35,2198707,1.59,South Africa2012,0.659,"396,332,702,639",8347,Boomers
+196,South Africa,2012,male,35-54 years,88,5612118,1.57,South Africa2012,0.659,"396,332,702,639",8347,Generation X
+197,South Africa,2012,female,15-24 years,48,5096625,0.94,South Africa2012,0.659,"396,332,702,639",8347,Millenials
+198,South Africa,2012,female,55-74 years,13,2837036,0.46,South Africa2012,0.659,"396,332,702,639",8347,Boomers
+199,South Africa,2012,female,35-54 years,26,6027847,0.43,South Africa2012,0.659,"396,332,702,639",8347,Generation X
+200,South Africa,2012,female,25-34 years,19,4571162,0.42,South Africa2012,0.659,"396,332,702,639",8347,Millenials
+201,South Africa,2012,female,75+ years,1,559272,0.18,South Africa2012,0.659,"396,332,702,639",8347,Silent
+202,South Africa,2012,female,5-14 years,7,5149736,0.14,South Africa2012,0.659,"396,332,702,639",8347,Generation Z
+203,South Africa,2012,male,5-14 years,7,5223471,0.13,South Africa2012,0.659,"396,332,702,639",8347,Generation Z
+204,South Africa,2013,male,25-34 years,164,4845315,3.38,South Africa2013,0.6629999999999999,"366,829,390,479",7612,Millenials
+205,South Africa,2013,male,15-24 years,119,5182542,2.3,South Africa2013,0.6629999999999999,"366,829,390,479",7612,Millenials
+206,South Africa,2013,male,35-54 years,128,5759158,2.22,South Africa2013,0.6629999999999999,"366,829,390,479",7612,Generation X
+207,South Africa,2013,male,55-74 years,44,2270829,1.94,South Africa2013,0.6629999999999999,"366,829,390,479",7612,Boomers
+208,South Africa,2013,male,75+ years,5,278931,1.79,South Africa2013,0.6629999999999999,"366,829,390,479",7612,Silent
+209,South Africa,2013,female,75+ years,4,578958,0.69,South Africa2013,0.6629999999999999,"366,829,390,479",7612,Silent
+210,South Africa,2013,female,25-34 years,32,4661719,0.69,South Africa2013,0.6629999999999999,"366,829,390,479",7612,Millenials
+211,South Africa,2013,female,15-24 years,32,5097679,0.63,South Africa2013,0.6629999999999999,"366,829,390,479",7612,Millenials
+212,South Africa,2013,female,55-74 years,15,2938056,0.51,South Africa2013,0.6629999999999999,"366,829,390,479",7612,Boomers
+213,South Africa,2013,female,35-54 years,29,6147849,0.47,South Africa2013,0.6629999999999999,"366,829,390,479",7612,Generation X
+214,South Africa,2013,female,5-14 years,8,5178408,0.15,South Africa2013,0.6629999999999999,"366,829,390,479",7612,Generation Z
+215,South Africa,2013,male,5-14 years,7,5253255,0.13,South Africa2013,0.6629999999999999,"366,829,390,479",7612,Generation Z
+216,South Africa,2014,male,25-34 years,154,4927939,3.13,South Africa2014,0.6659999999999999,"350,904,575,292",7174,Millenials
+217,South Africa,2014,male,75+ years,8,283529,2.82,South Africa2014,0.6659999999999999,"350,904,575,292",7174,Silent
+218,South Africa,2014,male,15-24 years,126,5186816,2.43,South Africa2014,0.6659999999999999,"350,904,575,292",7174,Millenials
+219,South Africa,2014,male,35-54 years,127,5910695,2.15,South Africa2014,0.6659999999999999,"350,904,575,292",7174,Generation X
+220,South Africa,2014,male,55-74 years,40,2347004,1.7,South Africa2014,0.6659999999999999,"350,904,575,292",7174,Boomers
+221,South Africa,2014,female,15-24 years,50,5100812,0.98,South Africa2014,0.6659999999999999,"350,904,575,292",7174,Millenials
+222,South Africa,2014,female,25-34 years,32,4747193,0.67,South Africa2014,0.6659999999999999,"350,904,575,292",7174,Millenials
+223,South Africa,2014,female,35-54 years,23,6270420,0.37,South Africa2014,0.6659999999999999,"350,904,575,292",7174,Generation X
+224,South Africa,2014,female,55-74 years,11,3044479,0.36,South Africa2014,0.6659999999999999,"350,904,575,292",7174,Boomers
+225,South Africa,2014,female,75+ years,2,597700,0.33,South Africa2014,0.6659999999999999,"350,904,575,292",7174,Silent
+226,South Africa,2014,male,5-14 years,4,5285360,0.08,South Africa2014,0.6659999999999999,"350,904,575,292",7174,Generation Z
+227,South Africa,2014,female,5-14 years,3,5210182,0.06,South Africa2014,0.6659999999999999,"350,904,575,292",7174,Generation Z
+228,South Africa,2015,male,75+ years,8,285743,2.8,South Africa2015,,"317,741,039,198",6403,Silent
+229,South Africa,2015,male,25-34 years,126,5001052,2.52,South Africa2015,,"317,741,039,198",6403,Millenials
+230,South Africa,2015,male,15-24 years,90,5190482,1.73,South Africa2015,,"317,741,039,198",6403,Millenials
+231,South Africa,2015,male,55-74 years,41,2426511,1.69,South Africa2015,,"317,741,039,198",6403,Boomers
+232,South Africa,2015,male,35-54 years,101,6066751,1.66,South Africa2015,,"317,741,039,198",6403,Generation X
+233,South Africa,2015,female,15-24 years,34,5105930,0.67,South Africa2015,,"317,741,039,198",6403,Millenials
+234,South Africa,2015,female,25-34 years,27,4822164,0.56,South Africa2015,,"317,741,039,198",6403,Millenials
+235,South Africa,2015,female,35-54 years,26,6396045,0.41,South Africa2015,,"317,741,039,198",6403,Generation X
+236,South Africa,2015,female,75+ years,2,615701,0.32,South Africa2015,,"317,741,039,198",6403,Silent
+237,South Africa,2015,female,55-74 years,10,3155486,0.32,South Africa2015,,"317,741,039,198",6403,Boomers
+238,South Africa,2015,male,5-14 years,11,5318168,0.21,South Africa2015,,"317,741,039,198",6403,Generation Z
+239,South Africa,2015,female,5-14 years,6,5243427,0.11,South Africa2015,,"317,741,039,198",6403,Generation Z
